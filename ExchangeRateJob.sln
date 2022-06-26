@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeRateJob.UI", "ExchangeRateJob.UI\ExchangeRateJob.UI.csproj", "{50CC3A77-5E3A-44D7-900D-CB37786E9756}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{FF6D6525-7CA2-4ABB-9E45-916D1665C667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClientHelper", "WebClientHelper\WebClientHelper.csproj", "{A9BDF931-4F5F-48D6-A73F-1CF6A3993CA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50CC3A77-5E3A-44D7-900D-CB37786E9756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CC3A77-5E3A-44D7-900D-CB37786E9756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CC3A77-5E3A-44D7-900D-CB37786E9756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CC3A77-5E3A-44D7-900D-CB37786E9756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9BDF931-4F5F-48D6-A73F-1CF6A3993CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BDF931-4F5F-48D6-A73F-1CF6A3993CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BDF931-4F5F-48D6-A73F-1CF6A3993CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BDF931-4F5F-48D6-A73F-1CF6A3993CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A9BDF931-4F5F-48D6-A73F-1CF6A3993CA1} = {FF6D6525-7CA2-4ABB-9E45-916D1665C667}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7134E993-9DAB-4D38-B857-EF93E406EB7E}
+	EndGlobalSection
+EndGlobal

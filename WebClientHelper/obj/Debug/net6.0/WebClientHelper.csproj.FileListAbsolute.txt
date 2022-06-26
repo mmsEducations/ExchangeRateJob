@@ -1,0 +1,12 @@
+D:\Özel Ders\Osman\Jobs\ExchangeRateJob\WebClientHelper\bin\Debug\net6.0\WebClientHelper.deps.json
+D:\Özel Ders\Osman\Jobs\ExchangeRateJob\WebClientHelper\bin\Debug\net6.0\WebClientHelper.dll
+D:\Özel Ders\Osman\Jobs\ExchangeRateJob\WebClientHelper\bin\Debug\net6.0\WebClientHelper.pdb
+D:\Özel Ders\Osman\Jobs\ExchangeRateJob\WebClientHelper\obj\Debug\net6.0\WebClientHelper.csproj.AssemblyReference.cache
+D:\Özel Ders\Osman\Jobs\ExchangeRateJob\WebClientHelper\obj\Debug\net6.0\WebClientHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Özel Ders\Osman\Jobs\ExchangeRateJob\WebClientHelper\obj\Debug\net6.0\WebClientHelper.AssemblyInfoInputs.cache
+D:\Özel Ders\Osman\Jobs\ExchangeRateJob\WebClientHelper\obj\Debug\net6.0\WebClientHelper.AssemblyInfo.cs
+D:\Özel Ders\Osman\Jobs\ExchangeRateJob\WebClientHelper\obj\Debug\net6.0\WebClientHelper.csproj.CoreCompileInputs.cache
+D:\Özel Ders\Osman\Jobs\ExchangeRateJob\WebClientHelper\obj\Debug\net6.0\WebClientHelper.dll
+D:\Özel Ders\Osman\Jobs\ExchangeRateJob\WebClientHelper\obj\Debug\net6.0\refint\WebClientHelper.dll
+D:\Özel Ders\Osman\Jobs\ExchangeRateJob\WebClientHelper\obj\Debug\net6.0\WebClientHelper.pdb
+D:\Özel Ders\Osman\Jobs\ExchangeRateJob\WebClientHelper\obj\Debug\net6.0\ref\WebClientHelper.dll

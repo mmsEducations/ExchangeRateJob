@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "di+sWxrxBMlYngOoHhBfBZqMO+Tunl/1my0jeb3l51zPbqNQvpf7Pi36gH0aiS+swN8ivqfrYQBUcYj+x5uO1A==",
+  "success": true,
+  "projectFilePath": "D:\\Özel Ders\\Osman\\Jobs\\ExchangeRateJob\\WebClientHelper\\WebClientHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512"
+  ],
+  "logs": []
+}
